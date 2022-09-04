@@ -3,6 +3,16 @@
 # Space Traveler Hub
 This web app allows users to see available rockets for reservation and missions they can join. Users can see their reserved rockets and joined missions on My-profile page and cancel any joined mission or reserved rocket. the webiste uses real live data from the SpaceX API.
 
+## Milestones
+
+- [x] Milestone 1: **React app setup with redux using the duck pattern**
+- [x] Milestone 2: **Set up the app navigation using react-router**
+- [x] Milestone 3: **Create an API layer using the SpaceX API**
+- [x] Milestone 4: **Create the Redux store including the action creators and the reducers**
+- [x] Milestone 5: **Integrate the redux store into the app and display the data**
+- [x] Milestone 6: **Implement JoinMission and ReserveRocket functionalities**
+- [x] Milestone 7: **Display the user data in the Profile page**
+
 ## Project picture
 ![image](https://user-images.githubusercontent.com/102757126/187937621-8736f970-dff4-4a31-a818-07dbb670cd6e.png)
 ![image](https://user-images.githubusercontent.com/102757126/187937700-cedcabb7-5db7-4303-9836-717484e44735.png)
