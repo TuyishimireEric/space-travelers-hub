@@ -1,7 +1,7 @@
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 # Space Traveler Hub
-This web app allows users to see available rockets for reservation and missions they can join. Users can see their reserved rockets and joined missions on My-profile page and cancel any joined mission or reserved rocket
+This web app allows users to see available rockets for reservation and missions they can join. Users can see their reserved rockets and joined missions on My-profile page and cancel any joined mission or reserved rocket. the webiste uses real live data from the SpaceX API.
 
 ## Project picture
 ![image](https://user-images.githubusercontent.com/102757126/187937621-8736f970-dff4-4a31-a818-07dbb670cd6e.png)
